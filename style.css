@@ -35,6 +35,18 @@
     width: 55%;
 }
 
+#top {
+    height: 50px;
+    width: 100%;
+    background: red;
+}
+
+#bottom {
+    height: 50px;
+    width: 100%;
+    background: red;
+}
+
 /* The Close Button */
 .close {
     color: #aaaaaa;
